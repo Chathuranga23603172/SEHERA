@@ -80,7 +80,7 @@ const WomenswearFilters = ({
       handleFilterChange('maxPrice', numValue);
     }
   };
-
+p
   const clearAllFilters = () => {
     const clearedFilters = {
       category: '',
